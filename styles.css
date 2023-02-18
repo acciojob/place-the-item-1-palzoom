@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.con1{
+	display:flex;
+	width: 100%;
+	justify-content:flex-end;
+}
+.con2{
+	display:flex;
+/*     margin:12px;
+	height:250px;
+	width:250px;
+	background-color:red; */
+}
+.b1{
+	//position relative;
+	height:250px;
+	width:250px;
+	float:right;
+	background-color:red;
+}
+.b2{
+ 	margin:12px;
+	height:250px;
+	width:250px;
+	background-color:red; 
+}
+
+
